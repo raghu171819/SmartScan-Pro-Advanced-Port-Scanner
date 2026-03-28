@@ -26,10 +26,14 @@ This tool is designed for network analysis, cybersecurity learning, and port mon
 
 ## Installation (Kali Linux)
 sudo apt update
+
+
 sudo apt install nmap python3-tk -y
 
 ## How to Run
 nano smartscan_pro.py
+
+
 sudo python3 smartscan_pro.py
 
 ## Example Usage
@@ -66,9 +70,15 @@ OS Detection may fail if:
 ## Screenshots
 <img width="1280" height="725" alt="image" src="https://github.com/user-attachments/assets/9f32f1bc-215d-46d4-aef6-2b103f08392a" />
 
+
+
 <img width="1280" height="765" alt="image" src="https://github.com/user-attachments/assets/0419cb9e-0b03-4924-b8a2-a87baf7fbcc5" />
 
+
+
 <img width="1280" height="705" alt="image" src="https://github.com/user-attachments/assets/bf30a8df-7b21-4b59-9979-5bd5766de60c" />
+
+
 
 <img width="1280" height="740" alt="image" src="https://github.com/user-attachments/assets/18d56f04-daf3-4e37-8fc0-73d2b7c57f7a" />
 
