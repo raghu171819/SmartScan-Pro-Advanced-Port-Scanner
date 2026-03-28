@@ -2,7 +2,14 @@
 
 ## Project Overview
 SmartScan Pro is a GUI-based TCP Port Scanner developed using Python and Nmap.
+
+
+
 It allows users to scan open ports on a target system using multiple advanced scanning techniques.
+
+
+
+
 
 This tool is designed for network analysis, cybersecurity learning, and port monitoring.
 
@@ -49,12 +56,26 @@ Then select any scan type:
 
 ## Sample Output
 22/tcp open ssh
+
+
+
 80/tcp open http
+
+
 443/tcp open https
 
 ## Important Note
+
 If no ports are displayed, it means:
-- All ports are closed OR
+
+
+
+- All ports are closed
+-
+-
+-    OR
+
+- 
 - Ports are filtered by firewall
 
 OS Detection may fail if:
