@@ -71,11 +71,9 @@ If no ports are displayed, it means:
 
 
 - All ports are closed
--
--
--    OR
 
-- 
+    OR
+  
 - Ports are filtered by firewall
 
 OS Detection may fail if:
@@ -104,4 +102,4 @@ OS Detection may fail if:
 <img width="1280" height="740" alt="image" src="https://github.com/user-attachments/assets/18d56f04-daf3-4e37-8fc0-73d2b7c57f7a" />
 
 ## Author
-VADDHIPARTHI RAGHU
+NAME- VADDHIPARTHI RAGHU
